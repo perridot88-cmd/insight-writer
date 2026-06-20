@@ -86,7 +86,7 @@ insight-writer/
 
 출력:
 - 핵심 인사이트 1~2개 + 왜 이 문장이 남았는지
-- 추천 매체 (Short post / LinkedIn)
+- 추천 매체 (Short post / 노션 / 브런치)
 - 필요 시 짧은 샘플 초안
 ```
 
